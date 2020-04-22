@@ -17,3 +17,5 @@ ideas for learning python:
 	-further:
 		-learn about jyupiter notebooks
 		-learn about python for data analysis
+	-project ideas:
+		-a timer app to remind me to take breaks or do the laundry.
